@@ -38,3 +38,6 @@ Funnel, cards, and area chart for daily sales trend.
 🔄 Page navigation using buttons and slicers for smooth interactivity.
 
 🧮 Built dynamic measures and calculations using DAX.
+
+![image](https://github.com/user-attachments/assets/97cf3789-fbb0-4e6b-a787-06a309cb1476)
+
