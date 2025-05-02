@@ -1,7 +1,7 @@
 # Mobile-Sales-Dashboard-in-Power-BI
 
 # 🚀 Power BI Interactive Dashboard Project 📊
-I’m excited to share the Mobile Sales Dashboard I built after learning from Sathish Dwale Sir’s Power BI tutorials!
+I’m excited to share the Mobile Sales Dashboard.
 
 🔧 Project Workflow:
 
